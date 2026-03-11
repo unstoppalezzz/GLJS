@@ -42,13 +42,15 @@ Copy your Code.org GameLab code into this section.
 
 The layer will automatically call draw() every frame.
 Example:
-
+```javascript
 function draw() {
   background("black");
   textSize(20);
   fill("white");
   text("Hello World!", 100, 100);
 }
-Open index.html in your browser.
+```
 
 3. Run the project
+
+Open index.html in your browser.
