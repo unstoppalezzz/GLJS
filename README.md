@@ -18,7 +18,7 @@ img/player/sprite_0.png
 img/player/sprite_1.png
 img/player/sprite_2.png
 ```
-with player being the sprites given name
+with player being the given sprites name
 
 # Paste your Game Lab code
 
