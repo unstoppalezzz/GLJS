@@ -1,6 +1,6 @@
 # Code.org GameLab → JS Compatibility Layer
 
-This project provides a **compatibility layer** to run Code.org GameLab games in plain JavaScript using HTML5 `<canvas>`.  
+This project provides a **compatibility layer** to run Code.org GameLab games in plain JavaScript.  
 
 ---
 
