@@ -20,7 +20,7 @@ img/player/sprite_2.png
 ```
 
 The subfolder name is the animation name you pass to `setAnimation()`.
-So for this one thag would be `setAnimation("player")`.
+So for this one that would be `setAnimation("player")`.
 
 ---
 
