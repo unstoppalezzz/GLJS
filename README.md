@@ -20,12 +20,13 @@ img/player/sprite_2.png
 ```
 
 The subfolder name is the animation name you pass to `setAnimation()`.
+So for this one thag would be `setAnimation("player")`.
 
 ---
 
 ### 2. Paste your GameLab code
 
-Open `game.js` and paste your Code.org GameLab code in. The layer automatically calls `draw()` every frame.
+Open `game.js` and paste your Code.org GameLab code in. The engine automatically calls `draw()` every frame.
 
 ```javascript
 function draw() {
