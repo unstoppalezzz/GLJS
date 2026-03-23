@@ -224,12 +224,3 @@ camera.off();  // switch to screen space (for HUD)
 // draw HUD here
 camera.on();   // switch back to world space
 ```
-
----
-
-### Notes
-
-- `sin()`, `cos()`, `tan()`, `atan2()` use **radians**, matching how Code.org GameLab actually behaves internally when used with vector math.
-- `mouseDown = function(){ }` — you can reassign `mouseDown` to a callback function and it will fire on every canvas click.
-- Sprites with `immovable = true` won't be pushed by collision methods — useful for walls.
-- `drawSprites()` automatically ticks `life` down each frame and removes sprites when it reaches 0.
