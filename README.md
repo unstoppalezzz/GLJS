@@ -1,6 +1,6 @@
 # GLJS
 
-GLJS (GameLab JavaScript) — a lightweight JavaScript game engine that runs your Code.org GameLab games in any browser.
+GLJS (GameLab JavaScript) — a lightweight JavaScript game engine that runs your Code.org GameLab games in any modern browser.
 
 
 
