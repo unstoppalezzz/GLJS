@@ -41,7 +41,7 @@ function draw() {
 
 ### 3. Open in browser
 
-Open `index.html` in your browser. No server required.
+Open `game.html` in your browser. No server required.
 
 ---
 
